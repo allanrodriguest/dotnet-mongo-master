@@ -1,6 +1,6 @@
 # dotnet-mongo
 
-Exemplo de aplicação .net core com mongodb.
+Criação de uma API em .NET Core integrada à um cluster MongoDB.
 
 Para teste:
 
