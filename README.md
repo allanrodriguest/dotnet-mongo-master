@@ -14,7 +14,7 @@ https://localhost:5001/infectado
 	"longitude": -46.6565712
 }
 ```
-OBS: é preciso ter configurar o acesso ao banco no appsettings.
+OBS: é preciso configurar o acesso ao banco no appsettings.
 
 Links Uteis:
 
